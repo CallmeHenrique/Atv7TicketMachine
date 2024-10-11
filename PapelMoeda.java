@@ -15,10 +15,10 @@ public class PapelMoeda {
     }
 
     public int getValor() {
-        return valor;
+        return this.valor;
     }
 
     public int getQuantidade() {
-        return quantidade;
+        return this.quantidade;
     }
 }
